@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1601289833 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\balancesheet.cpp
+	"BalanceSheet.h"
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budgetfile.cpp
+	"BudgetFile.h"
+
+1601289993 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budgetmanager.cpp
+	"BudgetManager.h"
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\datemethods.cpp
+	"DateMethods.h"
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\filewithusers.cpp
+	"FileWithUsers.h"
+
+1303067212 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1303067212 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\supplementarymethods.cpp
+	"SupplementaryMethods.h"
+
+1600275373 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\textfile.cpp
+	"TextFile.h"
+
+1601289993 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\user.cpp
+	"User.h"
+
+1601289993 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\usermanager.cpp
+	"UserManager.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"User.h"
+	"FileWithUsers.h"
+
+1601289797 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\main.cpp
+	<iostream>
+	"Budget.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budget.h
+	<iostream>
+	"UserManager.h"
+	"BudgetManager.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budgetmanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<algorithm>
+	"BalanceSheet.h"
+	"BudgetFile.h"
+	"SupplementaryMethods.h"
+	"DateMethods.h"
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budget.cpp
+	"Budget.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\user.h
+	<iostream>
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\supplementarymethods.h
+	<iostream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"BalanceSheet.h"
+	"Date.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\filewithusers.h
+	<iostream>
+	<vector>
+	"User.h"
+	"SupplementaryMethods.h"
+	"Markup.h"
+
+1600283635 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\textfile.h
+	<iostream>
+	<vector>
+	<fstream>
+	"User.h"
+	"Markup.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\balancesheet.h
+	<iostream>
+
+1601289485 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\budgetfile.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"BalanceSheet.h"
+	"SupplementaryMethods.h"
+	"Markup.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\datemethods.h
+	<iostream>
+	<ctime>
+	<cstdio>
+	"SupplementaryMethods.h"
+	"Date.h"
+
+1601289797 c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\date.h
+	<iostream>
+
+1601289992 source:c:\users\miki\documents\zadania przyszly programista\seminaria\budzet\budget\date.cpp
+	"Date.h"
+
